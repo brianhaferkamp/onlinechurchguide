@@ -1,13 +1,14 @@
 # Online Ministry Guide
 A guide to help small churches do online ministry
 
+## Goal
+The goal of this guide is to give you the tools to minister to your congregation during this time of social distancing.
+
 ## Who is this guide for?
 - Pastors of small or medium congregations
 - Team leaders
 - Small group leaders
 - Leadership teams/Elders
-
-The goal of this guide is to give you the tools to minister to your congregation during this time of social distancing.
 
 ## Tech
 To do online services or ministry you'll need applications to help you with live streaming, conference calls, phone-in, collaboration, and more. This is our crowd-sourced list of tools for you to consider.
