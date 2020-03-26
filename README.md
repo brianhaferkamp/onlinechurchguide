@@ -1,7 +1,7 @@
 # Online Church Guide
 ### A guide to help small churches do online ministry
 
-### Who is this guide for?
+## Who is this guide for?
 - Pastors of small or medium congregations
 - Team leaders
 - Small group leaders
