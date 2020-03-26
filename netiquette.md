@@ -7,3 +7,5 @@ Please follow this format:
 ### Suggestion/Wisdom
 
 Any explanation or further information. Keep it short and informative, not opinionated.
+
+---
