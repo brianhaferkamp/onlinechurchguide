@@ -7,3 +7,5 @@ This document is for compiling technology used in online ministry. Please follow
 URL
 
 Free or Paid?
+
+---
