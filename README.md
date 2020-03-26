@@ -1,5 +1,5 @@
 # Online Ministry Guide
-A guide to help churches do online ministry
+A crowd sourced guide to help churches do online ministry
 
 ## Goal
 The goal of this guide is to give you the tools to minister to your congregation during this time of social distancing.
