@@ -8,8 +8,6 @@ URL
 
 Free or Paid?
 
----
-
 
 ## Video Conferencing
 
