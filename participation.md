@@ -9,3 +9,5 @@ Please follow this format:
 Explanation of how to do it or how you've seen it done.
 
 URL (if applicable)
+
+---
